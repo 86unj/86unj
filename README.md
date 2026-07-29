@@ -5,12 +5,10 @@
     I build software products and AI-powered systems:<br />
     full-stack apps, Node.js backends, and LLM integrations.
   </p>
-  <p style="display:inline-block">
-    <a href="https://www.linkedin.com/in/86un"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    &nbsp;
-    <a href="https://github.com/86unj"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    &nbsp;
-    <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <p style="display:inline-block" height="32" style="margin-right: 8px;">
+    <a href="https://www.linkedin.com/in/86un"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://github.com/86unj"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 </div>
 
@@ -19,10 +17,10 @@
 ### Featured work
 
 - **[Foundit](https://github.com/86unj/Foundit)** · Seneca campus lost & found · `TypeScript`
-- **[Before It Spoils](https://github.com/86unj/before-it-spoils)** · Food-waste web app · `JavaScript` · [![Live](https://img.shields.io/badge/Live-2ea44f?style=flat-square)](https://gdsc-client-86un.vercel.app)
-- **[0% Done](https://github.com/86unj/zero-done)** · AI persuasion game · `Next.js` `TypeScript` `Supabase` `OpenRouter` · [![Live](https://img.shields.io/badge/Live-2ea44f?style=flat-square)](https://zero-done.vercel.app)
+- **[Before It Spoils](https://github.com/86unj/before-it-spoils)** · Food-waste web app · `JavaScript` · [[Live]](https://gdsc-client-86un.vercel.app)
+- **[0% Done](https://github.com/86unj/zero-done)** · AI persuasion game · `Next.js` `TypeScript` `Supabase` `OpenRouter` · [[Live]](https://zero-done.vercel.app)
 - **[Husky Room Finder](https://github.com/86unj/husky-room-finder)** · Campus room finder · `JavaScript`
-- **[Spur Sprout](https://github.com/86unj/spur-sprout)** · Deployed Next.js app · `JavaScript` `Next.js` · [![Live](https://img.shields.io/badge/Live-2ea44f?style=flat-square)](https://spur-sprout.vercel.app)
+- **[Spur Sprout](https://github.com/86unj/spur-sprout)** · Deployed Next.js app · `JavaScript` `Next.js` · [[Live]](https://spur-sprout.vercel.app)
 
 ---
 
