@@ -7,8 +7,7 @@
   </p>
   <p style="display:inline-block" height="32" style="margin-right: 8px;">
     <a href="https://www.linkedin.com/in/86un"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://github.com/86unj"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-    <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="mailto:choi1@myseneca.ca"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 </div>
 
@@ -16,11 +15,11 @@
 
 ### Featured work
 
-- **[Foundit](https://github.com/86unj/Foundit)** · Seneca campus lost & found · `TypeScript`
+- **[Foundit](https://github.com/86unj/Foundit)** · Seneca lost &amp; found system · `TypeScript`
 - **[Before It Spoils](https://github.com/86unj/before-it-spoils)** · Food-waste web app · `JavaScript` · [[Live]](https://gdsc-client-86un.vercel.app)
 - **[0% Done](https://github.com/86unj/zero-done)** · AI persuasion game · `Next.js` `TypeScript` `Supabase` `OpenRouter` · [[Live]](https://zero-done.vercel.app)
-- **[Husky Room Finder](https://github.com/86unj/husky-room-finder)** · Campus room finder · `JavaScript`
-- **[Spur Sprout](https://github.com/86unj/spur-sprout)** · Deployed Next.js app · `JavaScript` `Next.js` · [[Live]](https://spur-sprout.vercel.app)
+- **[Room Finder](https://github.com/86unj/husky-room-finder)** · Campus room finder · `JavaScript`
+- **[Sprout](https://github.com/86unj/spur-sprout)** · Deployed Next.js app · `JavaScript` `Next.js` · [[Live]](https://spur-sprout.vercel.app)
 
 ---
 
@@ -34,6 +33,9 @@
 
 <div align="center">
   <p>
-    <a href="https://www.linkedin.com/in/86un"><strong>Open to internships, co-ops, and junior software / full-stack / AI-focused roles</strong></a>
+    <a href="https://www.linkedin.com/in/86un"><strong>Open to junior developer roles</strong></a>
+  </p>
+  <p>
+    <a href="https://github.com/86unj" title="Yes, this links back to this page"><img height="20" src="https://img.shields.io/badge/GitHub-111111?style=flat&logo=github&logoColor=white" alt="you are here" /></a>
   </p>
 </div>
