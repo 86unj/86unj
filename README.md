@@ -8,6 +8,7 @@
   <p style="display:inline-block" height="32" style="margin-right: 8px;">
     <a href="https://www.linkedin.com/in/86un"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:choi1@myseneca.ca"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://yun-choi.vercel.app"><img src="https://img.shields.io/badge/Website-18181B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
   </p>
 </div>
 
